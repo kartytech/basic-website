@@ -1,0 +1,46 @@
+body {
+    background-color: #1d1d1d;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.text {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+}
+
+.area {
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    width: 60%;
+}
+
+.button {
+    background-color: #2277e6;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    padding: 1rem;
+    background-color: #2e2e2e;
+    font-size: 19px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sora', sans-serif;
+}
